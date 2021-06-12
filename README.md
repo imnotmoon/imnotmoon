@@ -5,5 +5,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:imnotmoon@gmail.com) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotmoon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotmoon&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
