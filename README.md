@@ -1,10 +1,4 @@
 ### Hi there 👋 웹 프론트엔드 개발자 문상혁입니다.
-
-
-- 새로운 것을 시도해보길 좋아해 넓은 분야에 가벼운 경험이 있습니다.
-- 제가 가진 것을 공유하는 걸 즐깁니다.
-- 깔끔하고 가독성이 좋은 코드를 작성하는 데 관심이 많습니다.
-- 좋은 옷과 힙합 음악을 좋아합니다 🤟
  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:imnotmoon@gmail.com)
