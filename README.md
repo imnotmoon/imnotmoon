@@ -8,8 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotmoon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![styled-components][styled-components]
-![Python][Python] 
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React]
 
 
 [JavaScript]: https://img.shields.io/badge/JavaScript-f9ca24?style=for-the-badge&logo=javascript&logoColor=white
